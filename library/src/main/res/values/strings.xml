@@ -1,0 +1,10 @@
+<resources>
+	<string name="app_name">library</string>
+	<string name="indicator">%1$s/%2$s</string>
+	<string name="big_image_start_download">开始下载...</string>
+	<string name="big_image_save_fail">保存失败</string>
+	<string name="big_image_save_to">成功保存到 </string>
+	<string name="big_image_no_auth_show_pic">您拒绝了存储权限，无法读取图片！</string>
+	<string name="big_image_disk_clear">磁盘缓存已成功清除</string>
+	<string name="big_image_no_auth_to_down">您拒绝了存储权限，下载失败！</string>
+</resources>
